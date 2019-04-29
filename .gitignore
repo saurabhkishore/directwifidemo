@@ -1,0 +1,11 @@
+.gradle
+/local.properties
+/gradle.properties
+gradle.properties
+.DS_Store
+/build
+/captures
+.idea
+/*.iml
+android_client/android_client.iml
+*.iml
